@@ -30,10 +30,11 @@ setup(
     packages=find_packages(),
     install_requires=LIST_OF_REQUIREMENTS,
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apache 2.0 License",  
-        "Operating System :: OS Independent",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
     ],
+
     python_requires=">=3.7",
     include_package_data=True,
 )

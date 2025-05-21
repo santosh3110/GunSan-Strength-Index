@@ -94,6 +94,5 @@ def plot_gunsan_strength(df):
     hoversubplots="axis",
     hovermode="x unified"
     )
-
-
-    fig.show()
+    
+    return fig
