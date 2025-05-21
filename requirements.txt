@@ -1,0 +1,7 @@
+pandas
+numpy
+vectorbt
+pandas-ta
+plotly
+
+-e .

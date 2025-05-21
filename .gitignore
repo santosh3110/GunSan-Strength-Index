@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+*.c
+*.so
+*.pyx
