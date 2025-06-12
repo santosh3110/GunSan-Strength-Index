@@ -26,8 +26,7 @@ setup(
         "vectorbt",
         "pandas-ta",
         "plotly",
-        "yfinance",
-        "flask"
+        "yfinance"
     ],
     classifiers=[
         "License :: OSI Approved :: Apache Software License",
