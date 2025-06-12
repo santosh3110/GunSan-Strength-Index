@@ -34,7 +34,7 @@ setup(
     ext_modules=extensions,
     install_requires=[
         "pandas",
-        "numpy<2.0.0",
+        "numpy==1.24.4",
         "vectorbt",
         "pandas-ta",
         "plotly",
