@@ -1,9 +1,11 @@
 
 # 📈 GunSan Strength Index (GSI)
 
-**GunSan Strength Index (GSI)** is a proprietary technical indicator developed to measure the strength of a financial instrument using a blend of trend, momentum, and volatility signals.
+**GunSan Strength Index (GSI)** is a proprietary technical indicator developed by **Santosh Kumar Guntupalli** to quantify the strength of a financial instrument by combining trend, momentum, and volatility signals.
 
-This package allows analysts, traders, and quant developers to calculate and visualize a smoothed strength index derived from a combination of leading and lagging indicators – Hence,GunSan Strength Index(GSI) is both a leading and lagging indicator.
+This package empowers analysts, traders, and quant developers to calculate and visualize strength dynamics, detect potential trend reversals, and identify strength zones such as **bullish**, **bearish**, or **flat** phases. It also helps pinpoint **overbought** and **oversold** conditions with greater precision.
+
+By effectively blending both *leading* and *lagging* signals across trending and trading market regimes, the **GunSan Strength Index** serves as a unique hybrid indicator.
 
 ---
 
@@ -122,4 +124,4 @@ Licensed under the **Apache License 2.0**.
 
 - Built with ❤️ by [@santosh3110](https://github.com/santosh3110)
 - Inspired by old school technical analysis
-- Dedicated to my Guru, the legendary AS Chakravathy!
+- Dedicated to my Guru, the legendary AS Chakravarthy!

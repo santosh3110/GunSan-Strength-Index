@@ -66,7 +66,8 @@ def plot_gunsan_strength(df):
     # --- Layout ---
     fig.update_layout(
     height=800, 
-    width=1600,
+    width=None,
+    autosize=True,
     showlegend=False, 
     xaxis_rangeslider_visible=True,
     title="GunSan Strength Index - Interactive View",

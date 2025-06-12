@@ -3,3 +3,5 @@ numpy
 vectorbt
 pandas-ta
 plotly
+yfinance
+flask
