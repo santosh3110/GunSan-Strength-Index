@@ -4,6 +4,3 @@ vectorbt
 pandas-ta
 plotly
 yfinance
-flask
-Cython
-gunicorn
