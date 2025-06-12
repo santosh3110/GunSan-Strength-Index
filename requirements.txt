@@ -5,3 +5,4 @@ pandas-ta
 plotly
 yfinance
 flask
+gunicorn
