@@ -1,5 +1,5 @@
 
-# 📈 GunSan Strength Index (GSI)
+# 📈 GunSan Strength Index (GSI) [![PyPI version](https://badge.fury.io/py/gunsan-strength.svg)](https://pypi.org/project/gunsan-strength/) [![PyPI Downloads](https://static.pepy.tech/badge/gunsan-strength)](https://pepy.tech/projects/gunsan-strength)
 
 **GunSan Strength Index (GSI)** is a proprietary technical indicator developed by **Santosh Kumar Guntupalli** to quantify the strength of a financial instrument by combining trend, momentum, and volatility signals.
 
